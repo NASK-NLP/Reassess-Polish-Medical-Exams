@@ -153,7 +153,7 @@ figures/           Composition plots per exam source
 
 If you use this repository in your research, please cite it as:
 
-<pre><code>@misc{lasik2026reassessinghighperformingllmspolish,
+<pre><code>@article{lasik2026reassessinghighperformingllmspolish,
       title={Reassessing High-Performing LLMs on Polish Medical Exams: True Competence or Bias-Driven Performance?}, 
       author={Antoni Lasik and Jakub Pokrywka and Łukasz Grzybowski and Jeremi Ignacy Kaczmarek and Gabriela Korzańska and Janusz Świeczkowski-Feiz and Oskar Pastuszek and Paulina Hoffman and Jakub Tomasz Dąbrowski and Wojciech Kusa},
       year={2026},
