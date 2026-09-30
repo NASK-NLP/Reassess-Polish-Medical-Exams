@@ -145,3 +145,22 @@ figures/           Composition plots per exam source
 | `outputs/model_outputs/`          | Raw model predictions per split (pickles)             |
 | `outputs/judge_consistent/`       | LLM-judge boolean verdicts + chain-of-thought         |
 | `outputs/results/`                | Aggregated accuracy tables (bias/nobias, per-year)   |
+
+## 📖Citation
+
+
+<div align="left"> 
+
+If you use this repository in your research, please cite it as:
+
+<pre><code>@misc{lasik2026reassessinghighperformingllmspolish,
+      title={Reassessing High-Performing LLMs on Polish Medical Exams: True Competence or Bias-Driven Performance?}, 
+      author={Antoni Lasik and Jakub Pokrywka and Łukasz Grzybowski and Jeremi Ignacy Kaczmarek and Gabriela Korzańska and Janusz Świeczkowski-Feiz and Oskar Pastuszek and Paulina Hoffman and Jakub Tomasz Dąbrowski and Wojciech Kusa},
+      year={2026},
+      eprint={2606.12250},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.12250}, 
+}</code></pre>
+
+</div>
